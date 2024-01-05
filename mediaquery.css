@@ -1,0 +1,75 @@
+.header-container{
+    padding: 30px;
+    font-size: 40px;
+    background-color: rgb(4, 4, 58);
+    color: white;
+}
+
+main{
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.product-header-name{
+    font-size: 35px;
+    text-align: center;
+    font-weight: 50px;
+}
+
+.product-container{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius:10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card-container{
+    border: 1px solid red;
+    border-radius: 20px;
+    width: 30%;
+    height: auto;
+    box-shadow: gray;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       /* Mobile Styles */
+       @media only screen and (max-width: 767px) {
+        /* Styles for mobile devices */
+    }
+  
+  /* Tablet Styles */
+  @media only screen and (min-width: 768px) and (max-width: 1279px) {
+    /* Styles for tablets */
+  }
+  
+  /* Desktop Styles */
+  @media only screen and (min-width: 1280px) {
+    /* Styles for desktop screens */
+  }
