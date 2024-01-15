@@ -97,3 +97,18 @@ if(x_value == 90){
 }else{
     console.log(false)
 }
+
+
+// week3
+//string methods,number methods, array method
+
+//strings methods
+//String length
+//String charAt()
+//String charCodeAt()
+//String at()
+//String [ ]
+//String slice()
+//String substring()
+//String substr()
+
